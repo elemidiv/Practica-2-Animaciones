@@ -1,2 +1,3 @@
 # Practica-2-Animaciones
-Practica #2 animación personaje
+Angel Emiliano Davalos Vazquez
+Practica sobre como animar personajes dentro de Unity
